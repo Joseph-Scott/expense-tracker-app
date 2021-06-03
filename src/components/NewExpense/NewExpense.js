@@ -1,5 +1,11 @@
 import React from 'react';
 
-const NewExpense = () => {};
+import './NewExpense.css';
+
+const NewExpense = () => {
+  return <div className="new-expense">
+    
+  </div>
+}
 
 export default NewExpense;
